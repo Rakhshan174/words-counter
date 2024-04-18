@@ -1,2 +1,2 @@
 # words-counter
-New project words count
+New project words counter
